@@ -4,6 +4,7 @@ numpy
 seaborn
 optuna
 matplotlib
+xgboost
 flask
 
 -e .
