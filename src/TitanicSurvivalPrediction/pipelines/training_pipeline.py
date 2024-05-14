@@ -1,0 +1,4 @@
+from src.TitanicSurvivalPrediction.components.data_ingestion import DataIngestion
+
+obj_ingestion=DataIngestion()
+train_data,test_data=obj_ingestion.initiate_data_ingection()
